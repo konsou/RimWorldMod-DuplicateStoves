@@ -8,7 +8,7 @@
             "name": "Rimworld Mod Project",
             "type": "clr",
             "request": "launch",
-            "preLaunchTask": "build dll",
+            // "preLaunchTask": "build dll",
             "args": [],
             "program": "../../RimWorldWin64.exe",
             "cwd": "${workspaceFolder}",
