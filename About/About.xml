@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<packageId>konsou.duplicate-stoves</packageId>
+	<packageId>konsou.DuplicateStoves</packageId>
 	<name>Duplicate Stoves</name>
 	<author>konsou</author>
 	<supportedVersions>
