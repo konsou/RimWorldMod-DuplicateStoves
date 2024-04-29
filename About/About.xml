@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<packageId>konsou.working-stoves</packageId>
-	<name>Working Stoves</name>
+	<packageId>konsou.duplicate-stoves</packageId>
+	<name>Duplicate Stoves</name>
 	<author>konsou</author>
 	<supportedVersions>
 		<li>1.4</li>
@@ -20,5 +20,5 @@
 		<!-- <li>username.modname</li> -->
 	</incompatibleWith>
 
-	<description>Working Stoves</description>
+	<description>This mod creates duplicates of the Electric Stove and Fueled Stove to fix a weird compatibility issue I had where the stoves stopped working.</description>
 </ModMetaData>
